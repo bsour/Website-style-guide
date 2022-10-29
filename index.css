@@ -1,0 +1,104 @@
+
+body {
+    background-color: #5CDB95;
+    color: #05386B;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar {
+    color: #05386B;
+    background-color: #EDF5E1;
+    border-bottom: 1px solid #EDF5E1;
+    margin: 30px auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight:bolder;
+    text-transform: uppercase;
+    
+}
+li:hover {
+    color: #EDF5E1;
+  }
+
+h1, h2 {
+    color: #EDF5E1;
+}
+.sample {
+    display: inline-block;
+    padding: 30px 40px;
+    
+}
+.text-styles {
+    border: 8px solid #05386B;
+    margin: 0 auto;
+}
+.italic {
+    font-weight: normal;
+    font-style: italic;
+}
+.bold {
+    font-weight: 900;
+}
+  
+.regular {
+    font-weight: normal;
+}
+.sample .text {
+    color: #05386B;
+    font-size: 100px;
+}
+.fonts {
+    border: 8px solid #05386B;
+    margin: 0 auto;
+}
+.banner {
+    border: 8px solid #05386B;
+    margin: 0 auto;
+}
+.blue, .green, .dark-green, .light-green, .white {
+    border: 1px solid #05386B;
+    background-color: #EDF5E1;
+    display: inline-block;
+    height: 150px;
+    width: 400px;
+    margin: 10px 50px 10px 50px;
+    
+}
+.blue:hover {
+    background-color:#05386B;
+    color:#EDF5E1;
+}
+.green:hover{
+    background-color:#5CDB95;
+    color:#05386B;
+
+}
+.dark-green:hover {
+    background-color: #379683;
+    color: #05386B;
+
+}
+.light-green:hover {
+    background-color: #8EE4AF;
+    color: #05386B;
+
+}
+.white:hover {
+    background-color: #EDF5E1;
+    color: #05386B;
+
+}
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 50px;
+}
+li {
+    font-size: 30px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+}
